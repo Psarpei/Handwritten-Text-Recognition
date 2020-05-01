@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<line text="A MOVE to stop Mr. Gaitskell from">
+  <!--Generated from Pascal Fischer, Goethe University, Frankfurt am Main, Praktikum Pattern Analysis and Machine Intelligence-->
+  <word text="A" width="27" x="0"/>
+  <word text="MOVE" width="213" x="99"/>
+  <word text="to" width="70" x="388"/>
+  <word text="stop" width="166" x="511"/>
+  <word text="Mr." width="126" x="777"/>
+  <word text="Gaitskell" width="382" x="1030"/>
+  <word text="from" width="173" x="1488"/>
+</line>

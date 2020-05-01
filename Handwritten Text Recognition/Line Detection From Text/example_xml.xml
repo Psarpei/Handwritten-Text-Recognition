@@ -1,0 +1,314 @@
+<form created="2002-01-14" height="3542" id="a01-000u" last-modified="2002-07-17" skew="287" status="final" version="3.0_beta" width="2479" writer-id="000">
+<machine-printed-part>
+<machine-print-line text="A MOVE to stop Mr. Gaitskell from nominating any more Labour life Peers is to"/>
+<machine-print-line text="be made at a meeting of Labour M Ps tomorrow. Mr. Michael Foot has put down"/>
+<machine-print-line text="a resolution on the subject and he is to be backed by Mr. Will Griffiths, M P for"/>
+<machine-print-line text="Manchester Exchange."/>
+</machine-printed-part>
+<handwritten-part>
+<line ass="-187" asx="0" asy="739" character-width="999" dss="-187" dsx="0" dsy="831" fd0="12129" fd1="2994" fd2="-339" filter-width="5" id="a01-000u-00" lbs="-108" lbx="0" lby="810" segmentation="ok" slant="90000" stroke-width="7333" threshold="154" text="A MOVE to stop Mr. Gaitskell from" ubs="-347" ubx="0" uby="769">
+<word id="a01-000u-00-00" sentence-start="yes" tag="AT" text="A">
+<cmp x="408" y="768" width="27" height="51"/>
+</word>
+<word id="a01-000u-00-01" tag="NN" text="MOVE">
+<cmp x="507" y="768" width="63" height="46"/>
+<cmp x="568" y="770" width="56" height="41"/>
+<cmp x="631" y="768" width="38" height="41"/>
+<cmp x="676" y="772" width="31" height="36"/>
+<cmp x="691" y="766" width="29" height="12"/>
+</word>
+<word id="a01-000u-00-02" tag="TO" text="to">
+<cmp x="796" y="764" width="26" height="43"/>
+<cmp x="826" y="780" width="40" height="34"/>
+</word>
+<word id="a01-000u-00-03" tag="VB" text="stop">
+<cmp x="919" y="783" width="36" height="28"/>
+<cmp x="958" y="757" width="77" height="57"/>
+<cmp x="1041" y="789" width="44" height="46"/>
+</word>
+<word id="a01-000u-00-04" tag="NPT" text="Mr.">
+<cmp x="1185" y="754" width="111" height="61"/>
+<cmp x="1303" y="807" width="8" height="8"/>
+</word>
+<word id="a01-000u-00-05" tag="NP" text="Gaitskell">
+<cmp x="1438" y="750" width="135" height="62"/>
+<cmp x="1561" y="746" width="9" height="10"/>
+<cmp x="1582" y="756" width="55" height="57"/>
+<cmp x="1654" y="750" width="166" height="69"/>
+</word>
+<word id="a01-000u-00-06" tag="IN" text="from">
+<cmp x="1896" y="757" width="55" height="72"/>
+<cmp x="1955" y="781" width="114" height="33"/>
+</word>
+<lower-contour>
+<point x="406" y="835"/>
+<point x="2070" y="835"/>
+</lower-contour>
+</line>
+<line ass="-244" asx="0" asy="923" character-width="999" dss="-244" dsx="0" dsy="1031" fd0="12413" fd1="2841" fd2="-334" filter-width="5" id="a01-000u-01" lbs="-196" lbx="0" lby="987" segmentation="ok" slant="104000" stroke-width="7424" threshold="156" text="nominating any more Labour life Peers" ubs="-338" ubx="0" uby="955">
+<word id="a01-000u-01-00" tag="VBG" text="nominating">
+<cmp x="395" y="957" width="134" height="36"/>
+<cmp x="531" y="965" width="18" height="25"/>
+<cmp x="533" y="935" width="8" height="13"/>
+<cmp x="560" y="963" width="44" height="26"/>
+<cmp x="605" y="932" width="121" height="57"/>
+<cmp x="717" y="941" width="13" height="11"/>
+<cmp x="742" y="965" width="94" height="67"/>
+</word>
+<word id="a01-000u-01-01" tag="DTI" text="any">
+<cmp x="901" y="958" width="147" height="79"/>
+</word>
+<word id="a01-000u-01-02" tag="AP" text="more">
+<cmp x="1112" y="959" width="96" height="40"/>
+<cmp x="1216" y="958" width="104" height="42"/>
+</word>
+<word id="a01-000u-01-03" tag="NN" text="Labour">
+<cmp x="1400" y="944" width="38" height="52"/>
+<cmp x="1446" y="937" width="91" height="58"/>
+<cmp x="1538" y="960" width="156" height="35"/>
+</word>
+<word id="a01-000u-01-04" tag="NN" text="life">
+<cmp x="1779" y="944" width="52" height="43"/>
+<cmp x="1806" y="932" width="10" height="10"/>
+<cmp x="1841" y="932" width="112" height="63"/>
+</word>
+<word id="a01-000u-01-05" tag="NNS" text="Peers">
+<cmp x="2008" y="933" width="90" height="57"/>
+<cmp x="2086" y="959" width="122" height="44"/>
+<cmp x="2206" y="966" width="39" height="32"/>
+</word>
+<upper-contour>
+<point x="406" y="835"/>
+<point x="2070" y="835"/>
+</upper-contour>
+<lower-contour>
+<point x="406" y="1036"/>
+<point x="2246" y="1036"/>
+</lower-contour>
+</line>
+<line ass="-325" asx="0" asy="1096" character-width="999" dss="-325" dsx="0" dsy="1200" fd0="12401" fd1="2590" fd2="-125" filter-width="5" id="a01-000u-02" lbs="-347" lbx="0" lby="1166" segmentation="ok" slant="100000" stroke-width="7432" threshold="157" text="is to be made at a meeting of Labour" ubs="-283" ubx="0" uby="1139">
+<word id="a01-000u-02-00" tag="BEZ" text="is">
+<cmp x="408" y="1140" width="65" height="36"/>
+<cmp x="416" y="1106" width="11" height="12"/>
+</word>
+<word id="a01-000u-02-01" tag="TO" text="to">
+<cmp x="541" y="1118" width="24" height="50"/>
+<cmp x="568" y="1139" width="45" height="33"/>
+</word>
+<word id="a01-000u-02-02" tag="BE" text="be">
+<cmp x="720" y="1114" width="113" height="63"/>
+</word>
+<word id="a01-000u-02-03" tag="VBN" text="made">
+<cmp x="916" y="1143" width="74" height="29"/>
+<cmp x="993" y="1136" width="204" height="46"/>
+</word>
+<word id="a01-000u-02-04" tag="IN" text="at">
+<cmp x="1281" y="1117" width="80" height="59"/>
+</word>
+<word id="a01-000u-02-05" tag="AT" text="a">
+<cmp x="1405" y="1140" width="64" height="35"/>
+</word>
+<word id="a01-000u-02-06" tag="NN" text="meeting">
+<cmp x="1544" y="1116" width="210" height="60"/>
+<cmp x="1751" y="1115" width="8" height="13"/>
+<cmp x="1766" y="1150" width="47" height="23"/>
+<cmp x="1818" y="1148" width="65" height="63"/>
+</word>
+<word id="a01-000u-02-07" tag="INO" text="of">
+<cmp x="1936" y="1106" width="91" height="74"/>
+</word>
+<word id="a01-000u-02-08" tag="NN" text="Labour">
+<cmp x="2092" y="1124" width="37" height="50"/>
+<cmp x="2132" y="1121" width="262" height="65"/>
+</word>
+<upper-contour>
+<point x="406" y="1036"/>
+<point x="2246" y="1036"/>
+</upper-contour>
+<lower-contour>
+<point x="428" y="1214"/>
+<point x="2314" y="1214"/>
+</lower-contour>
+</line>
+<line ass="-277" asx="0" asy="1284" character-width="999" dss="-277" dsx="0" dsy="1353" fd0="12667" fd1="3083" fd2="6" filter-width="5" id="a01-000u-03" lbs="-212" lbx="0" lby="1342" segmentation="err" slant="106000" stroke-width="7430" threshold="156" text="M Ps tomorrow. Mr. Michael Foot has" ubs="-406" ubx="0" uby="1305">
+<word id="a01-000u-03-00" tag="NPTS" text="M Ps">
+<cmp x="430" y="1291" width="50" height="53"/>
+<cmp x="488" y="1290" width="66" height="50"/>
+<cmp x="567" y="1314" width="40" height="35"/>
+</word>
+<word id="a01-000u-03-01" tag="NR" text="tomorrow">
+<cmp x="705" y="1296" width="165" height="48"/>
+<cmp x="869" y="1312" width="50" height="34"/>
+<cmp x="925" y="1315" width="35" height="29"/>
+<cmp x="967" y="1315" width="37" height="27"/>
+<cmp x="1004" y="1313" width="132" height="37"/>
+</word>
+<word id="a01-000u-03-02" tag="." text=".">
+<cmp x="1154" y="1346" width="9" height="10"/>
+</word>
+<word id="a01-000u-03-03" sentence-start="yes" tag="NPT" text="Mr.">
+<cmp x="1269" y="1292" width="150" height="63"/>
+<cmp x="1430" y="1349" width="9" height="11"/>
+<cmp x="1497" y="1297" width="92" height="57"/>
+</word>
+<word id="a01-000u-03-04" tag="NP" text="Michael">
+<cmp x="1570" y="1297" width="10" height="18"/>
+<cmp x="1596" y="1309" width="100" height="41"/>
+<cmp x="1700" y="1320" width="42" height="29"/>
+<cmp x="1744" y="1316" width="51" height="34"/>
+<cmp x="1797" y="1299" width="25" height="54"/>
+</word>
+<word id="a01-000u-03-05" tag="NP" text="Foot">
+<cmp x="1914" y="1292" width="85" height="12"/>
+<cmp x="1933" y="1302" width="32" height="41"/>
+<cmp x="1977" y="1319" width="83" height="36"/>
+<cmp x="2066" y="1300" width="38" height="50"/>
+</word>
+<word id="a01-000u-03-06" tag="HVZ" text="has">
+<cmp x="2179" y="1300" width="40" height="44"/>
+<cmp x="2220" y="1320" width="93" height="37"/>
+</word>
+<upper-contour>
+<point x="428" y="1214"/>
+<point x="2314" y="1214"/>
+</upper-contour>
+<lower-contour>
+<point x="428" y="1360"/>
+<point x="2226" y="1360"/>
+</lower-contour>
+</line>
+<line ass="-313" asx="0" asy="1461" character-width="999" dss="-313" dsx="0" dsy="1556" fd0="12390" fd1="2712" fd2="-376" filter-width="5" id="a01-000u-04" lbs="-328" lbx="0" lby="1523" segmentation="ok" slant="110000" stroke-width="7417" threshold="157" text="put down a resolution on the subject" ubs="-282" ubx="0" uby="1494">
+<word id="a01-000u-04-00" tag="VBN" text="put">
+<cmp x="395" y="1493" width="37" height="53"/>
+<cmp x="433" y="1475" width="115" height="54"/>
+</word>
+<word id="a01-000u-04-01" tag="RP" text="down">
+<cmp x="616" y="1482" width="100" height="46"/>
+<cmp x="724" y="1491" width="70" height="38"/>
+<cmp x="796" y="1499" width="41" height="31"/>
+</word>
+<word id="a01-000u-04-02" tag="AT" text="a">
+<cmp x="891" y="1501" width="58" height="29"/>
+</word>
+<word id="a01-000u-04-03" tag="NN" text="resolution">
+<cmp x="1013" y="1502" width="27" height="26"/>
+<cmp x="1045" y="1496" width="89" height="35"/>
+<cmp x="1145" y="1500" width="50" height="33"/>
+<cmp x="1208" y="1486" width="93" height="40"/>
+<cmp x="1299" y="1479" width="41" height="51"/>
+<cmp x="1332" y="1485" width="9" height="11"/>
+<cmp x="1342" y="1501" width="99" height="32"/>
+</word>
+<word id="a01-000u-04-04" tag="IN" text="on">
+<cmp x="1520" y="1501" width="78" height="32"/>
+</word>
+<word id="a01-000u-04-05" tag="ATI" text="the">
+<cmp x="1665" y="1476" width="31" height="47"/>
+<cmp x="1708" y="1486" width="124" height="51"/>
+</word>
+<word id="a01-000u-04-06" tag="NN" text="subject">
+<cmp x="1906" y="1475" width="150" height="64"/>
+<cmp x="2053" y="1500" width="86" height="68"/>
+<cmp x="2064" y="1474" width="16" height="15"/>
+<cmp x="2140" y="1490" width="85" height="56"/>
+</word>
+<upper-contour>
+<point x="428" y="1360"/>
+<point x="2226" y="1360"/>
+</upper-contour>
+<lower-contour>
+<point x="393" y="1572"/>
+<point x="2226" y="1572"/>
+</lower-contour>
+</line>
+<line ass="-24" asx="0" asy="1641" character-width="999" dss="-24" dsx="0" dsy="1730" fd0="12584" fd1="2893" fd2="326" filter-width="5" id="a01-000u-05" lbs="-101" lbx="0" lby="1704" segmentation="err" slant="102000" stroke-width="7543" threshold="156" text="and he is to be backed by Mr. Will" ubs="130" ubx="0" uby="1677">
+<word id="a01-000u-05-00" tag="CC" text="and">
+<cmp x="379" y="1679" width="114" height="31"/>
+<cmp x="496" y="1660" width="74" height="40"/>
+</word>
+<word id="a01-000u-05-01" tag="PP3A" text="he">
+<cmp x="643" y="1654" width="126" height="50"/>
+</word>
+<word id="a01-000u-05-02" tag="BEZ" text="is">
+<cmp x="815" y="1643" width="10" height="14"/>
+<cmp x="825" y="1683" width="50" height="29"/>
+</word>
+<word id="a01-000u-05-03" tag="TO" text="to">
+<cmp x="919" y="1663" width="32" height="45"/>
+<cmp x="956" y="1679" width="44" height="33"/>
+</word>
+<word id="a01-000u-05-04" tag="BE" text="be">
+<cmp x="1058" y="1661" width="56" height="51"/>
+<cmp x="1114" y="1674" width="82" height="41"/>
+</word>
+<word id="a01-000u-05-05" tag="VBN" text="backed">
+<cmp x="1261" y="1663" width="43" height="45"/>
+<cmp x="1309" y="1676" width="53" height="29"/>
+<cmp x="1368" y="1660" width="89" height="49"/>
+<cmp x="1457" y="1658" width="114" height="50"/>
+</word>
+<word id="a01-000u-05-06" tag="IN" text="by">
+<cmp x="1668" y="1662" width="38" height="45"/>
+<cmp x="1720" y="1677" width="47" height="54"/>
+</word>
+<word id="a01-000u-05-07" tag="NPT" text="Mr.">
+<cmp x="1846" y="1647" width="122" height="62"/>
+<cmp x="1971" y="1702" width="10" height="11"/>
+<cmp x="2086" y="1651" width="61" height="56"/>
+</word>
+<word id="a01-000u-05-08" tag="NP" text="Will">
+<cmp x="2166" y="1688" width="15" height="22"/>
+<cmp x="2176" y="1657" width="7" height="12"/>
+<cmp x="2197" y="1662" width="36" height="48"/>
+</word>
+<upper-contour>
+<point x="393" y="1572"/>
+<point x="2226" y="1572"/>
+</upper-contour>
+<lower-contour>
+<point x="377" y="1733"/>
+<point x="2234" y="1733"/>
+</lower-contour>
+</line>
+<line ass="3" asx="0" asy="1825" character-width="999" dss="3" dsx="0" dsy="1913" fd0="12396" fd1="2954" fd2="-126" filter-width="5" id="a01-000u-06" lbs="19" lbx="0" lby="1889" segmentation="ok" slant="106000" stroke-width="7427" threshold="159" text="Griffiths, M P for Manchester Exchange." ubs="-29" ubx="0" uby="1859">
+<word id="a01-000u-06-00" tag="NP" text="Griffiths">
+<cmp x="363" y="1842" width="49" height="51"/>
+<cmp x="417" y="1863" width="43" height="24"/>
+<cmp x="437" y="1832" width="19" height="15"/>
+<cmp x="468" y="1827" width="38" height="67"/>
+<cmp x="510" y="1828" width="54" height="63"/>
+<cmp x="542" y="1829" width="9" height="14"/>
+<cmp x="583" y="1833" width="129" height="55"/>
+</word>
+<word id="a01-000u-06-01" tag="," text=",">
+<cmp x="754" y="1878" width="18" height="34"/>
+</word>
+<word id="a01-000u-06-02" tag="NPT" text="M P">
+<cmp x="878" y="1836" width="64" height="57"/>
+<cmp x="949" y="1825" width="89" height="61"/>
+</word>
+<word id="a01-000u-06-03" tag="IN" text="for">
+<cmp x="1134" y="1829" width="34" height="73"/>
+<cmp x="1181" y="1853" width="118" height="36"/>
+</word>
+<word id="a01-000u-06-04" tag="NP" text="Manchester">
+<cmp x="1385" y="1835" width="63" height="59"/>
+<cmp x="1459" y="1860" width="93" height="28"/>
+<cmp x="1560" y="1840" width="266" height="52"/>
+</word>
+<word id="a01-000u-06-05" tag="NP" text="Exchange">
+<cmp x="1910" y="1839" width="56" height="52"/>
+<cmp x="1974" y="1863" width="40" height="29"/>
+<cmp x="2020" y="1850" width="209" height="39"/>
+<cmp x="2239" y="1849" width="129" height="53"/>
+</word>
+<word id="a01-000u-06-06" tag="." text=".">
+<cmp x="2404" y="1894" width="10" height="13"/>
+</word>
+<upper-contour>
+<point x="377" y="1733"/>
+<point x="2234" y="1733"/>
+</upper-contour>
+</line>
+</handwritten-part>
+</form>
