@@ -57,3 +57,12 @@ We compare our best approach with the state-of-the-art [CRNN](https://arxiv.org/
 | ---------|:-----:| 
 | CRNN     | 5.7   |
 | Our best | 10.64 |
+
+**Source Code**
+
+Source Code of all approaches are available in two Python formats
+
+* `.py`
+* `.pynb`
+
+The `.py` code is exactly the same as the `.pynb` but can be executed by one call.
