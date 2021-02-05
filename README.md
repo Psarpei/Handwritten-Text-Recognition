@@ -60,13 +60,9 @@ We compare our best approach with the state-of-the-art [CRNN](https://arxiv.org/
 
 **Source Code**
 
-<a href="https://github.com/Psarpei/Handwritten-Text-Recognition/blob/master/Handwritten%20Text%20Recognition/Line%20Detection%20From%20Text/LINE_DETECTION.ipynb">
+The source code of all approaches are available in the `.pynb` Python formats in the way of google-colab
+
+<a href="https://colab.research.google.com/github/Psarpei/Handwritten-Text-Recognition/blob/master/Handwritten%20Text%20Recognition/Line%20Detection%20From%20Text/LINE_DETECTION.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Source Code of all approaches are available in two Python formats
-
-* `.py`
-* `.pynb`
-
-The `.py` code is exactly the same as the `.pynb` but can be executed by one call.
