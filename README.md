@@ -30,14 +30,6 @@ On top of that there is a explanation of the object detection approach [YOLOv1](
 
 
 ## Project
-The model is able to recognizing the followig logical document structures
-* ```(t``` - text start
-* ```(s``` - sentence start
-* ```(seg``` - segment start
-* ```(w``` - word start
-* ```(c``` - char start
-* ```)``` end of logical document structure
-* ```Ti``` - sentence/segment depth will be measured recursive 
 
 **Dataset**
 
@@ -55,35 +47,4 @@ The database consists of:
 
 All form, line and word images are provided as PNG files and the corresponding form label files, including segmentation information and variety of estimated parameters, are included in the image files as meta-information in XML format which is described in XML file and XML file format (DTD).
 
-**Training results**
-
-<img align="center" width="500" height="" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Train_example2.png">
-
-**Vaidation results**
-
-<img align="center" width="500" height="" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Test_example2.png">
-
-**Prediction**
-
-The model is able to predict the output in the usually format like in example_predict.txt. or in the .xml format like in example_XML.tei.
-
-In following ```DATANAME``` is a free selectable name. 
-
-There are to options to make a prediction:
-* You have the ground truth of a text and you want to predict the rnng-output as ```.tei``` file as well as the evaluation. For this you have to save your ground_truth data as ```DATANAME_Ground_Truth.txt```.
-* You only want to predict the rnng-output. For this you have to save your text in the file ```DATANAME.txt``` as plain text.
-
-In both cases you have to save your files in the directory ```/PLACE_YOUR_FILES_HERE```
-
-To make a prediciton (and get the evaluation results) you only have to navigate to the directory of the ```predict.sh``` file and execute 
-
-    ./predict.sh DATEINAME 
-
-The following files are generated in the ```/PLACE_YOUR_FILES_HERE directory```
-
-* ```DATEINAME_graminput.txt```: The rnng input file 
-* ```DATEINAME_predict.txt```: The prediction in grammar format.
-* ```DATEINAME.tei```: This is the final rnng out file which contains the prediction in .tei format.
-* ```DATEINAME.txt```: The purely input text without grammar format is saved here (if not available).
-* ```DATEINAME_Ground_Truth.txt```: This file only exists if, you saved a ground truth file here.
-* ```DATEINAME_evaluation.txt```: Here you can find the evaluation results (this file only exists if you have saved a ground truth file).
+**Results**
