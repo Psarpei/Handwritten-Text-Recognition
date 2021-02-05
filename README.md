@@ -1,7 +1,9 @@
 # Handwritten-Text-Recognition
 As part of the project we examine several approaches for recognizing text in images and predicting the whole digital text
-<img align="top" width="400" height="" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Handwritten_text_recognition.jpg">
 
+<p align="center">
+    <img align="top" width="400" height="" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Handwritten_text_recognition.jpg">
+</p>
 
 Im Rahmen dieser Arbeit wurden verschiedene Ansätze für die Erkennung von handschriftlichem Text in Bildern untersucht, wobei alle Ansätze der Methode folgen, das Bild in kleinere Teilbilder (Zeilen, Wörter, Buchstaben) zu zerlegen. Es werden die zwei besten der in dieser Arbeit entwickelten Ansätze erläutert und deren Ergebnisse präsentiert.Zudem wird eine aktuelle Methode zur Erkennung von handschriftlichem Text und eine Methode für die Object Erkennung in Form von Object Detection vorgestellt. Zusätzlich wird ein Problem von aktuellen Datensätzen bzw. Methoden aufgezeigt und ein Ausblick für die Verbesserung von diesen gegeben.
 
@@ -9,9 +11,7 @@ This work is the preliminary work of the paper [Recognizing Sentence-level Logic
 Context-free Grammars](https://www.aclweb.org/anthology/2020.lrec-1.650.pdf) 
 
 ## General information
-<p align="center">
-    <img width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo-Goethe-University-Frankfurt-am-Main.svg">
-</p>
+
 **Instructors**
 * [Prof. Dr. Visvanathan Ramesh ](http://www.ccc.cs.uni-frankfurt.de/people/), email: mehler@em.uni-frankfurt.de
 * [Martin Mundt](https://martin-mundt.com/), email: mmundt@em.uni-frankfurt.de
