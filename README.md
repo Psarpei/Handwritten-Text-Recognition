@@ -10,12 +10,8 @@ All aproaches follow the method to break the image down into the smaller parts:
 * words
 * characters
 
-The two best approaches will be explained in the written elaboration that you can find between the source code folders of this repository.
-On top of that there is a explanation of the object detection approach [YOLOv1](https://arxiv.org/pdf/1506.02640.pdf) which is used in all approaches and the [End-to-End Trainable Neural Network for Image-based-Sequence Recognition](https://arxiv.org/pdf/1507.05717.pdf)
-Im Rahmen dieser Arbeit wurden verschiedene Ansätze für die Erkennung von handschriftlichem Text in Bildern untersucht, wobei alle Ansätze der Methode folgen, das Bild in kleinere Teilbilder (Zeilen, Wörter, Buchstaben) zu zerlegen. Es werden die zwei besten der in dieser Arbeit entwickelten Ansätze erläutert und deren Ergebnisse präsentiert.Zudem wird eine aktuelle Methode zur Erkennung von handschriftlichem Text und eine Methode für die Object Erkennung in Form von Object Detection vorgestellt. Zusätzlich wird ein Problem von aktuellen Datensätzen bzw. Methoden aufgezeigt und ein Ausblick für die Verbesserung von diesen gegeben.
-
-This work is the preliminary work of the paper [Recognizing Sentence-level Logical Document Structures with the Help of
-Context-free Grammars](https://www.aclweb.org/anthology/2020.lrec-1.650.pdf) 
+The two best approaches will be explained in the written elaboration (only available in german) that you can find between the source code folders of this repository.
+On top of that there is a explanation of the object detection approach [YOLOv1](https://arxiv.org/pdf/1506.02640.pdf) which is used in all approaches and the [End-to-End Trainable Neural Network for Image-based-Sequence Recognition](https://arxiv.org/pdf/1507.05717.pdf).
 
 ## General information
 <img align="right" width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo-Goethe-University-Frankfurt-am-Main.svg">;
