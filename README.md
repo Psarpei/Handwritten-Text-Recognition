@@ -47,7 +47,11 @@ The database consists of:
 
 All form, line and word images are provided as PNG files and the corresponding form label files, including segmentation information and variety of estimated parameters, are included in the image files as meta-information in XML format which is described in XML file and XML file format (DTD).
 
+
+
+
 **Results**
+
 We compare our best approach with the state-of-the-art [CRNN](https://arxiv.org/pdf/1507.05717.pdf) approach by the character error rate (cer).
 
 | Approach | CER % |
