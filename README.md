@@ -60,7 +60,7 @@ We compare our best approach with the state-of-the-art [CRNN](https://arxiv.org/
 
 **Source Code**
 
-<a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb">
+<a href="https://github.com/Psarpei/Handwritten-Text-Recognition/blob/master/Handwritten%20Text%20Recognition/Line%20Detection%20From%20Text/LINE_DETECTION.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
