@@ -5,6 +5,11 @@ As part of the project we examine several approaches for recognizing text in ima
     <img align="top" width="400" height="" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Handwritten_text_recognition.jpg">
 </p>
 
+All aproaches follow the method to break the image down into the smaller parts:
+* lines
+* words
+* characters
+
 Im Rahmen dieser Arbeit wurden verschiedene Ansätze für die Erkennung von handschriftlichem Text in Bildern untersucht, wobei alle Ansätze der Methode folgen, das Bild in kleinere Teilbilder (Zeilen, Wörter, Buchstaben) zu zerlegen. Es werden die zwei besten der in dieser Arbeit entwickelten Ansätze erläutert und deren Ergebnisse präsentiert.Zudem wird eine aktuelle Methode zur Erkennung von handschriftlichem Text und eine Methode für die Object Erkennung in Form von Object Detection vorgestellt. Zusätzlich wird ein Problem von aktuellen Datensätzen bzw. Methoden aufgezeigt und ein Ausblick für die Verbesserung von diesen gegeben.
 
 This work is the preliminary work of the paper [Recognizing Sentence-level Logical Document Structures with the Help of
