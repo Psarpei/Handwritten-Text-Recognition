@@ -50,6 +50,8 @@ All form, line and word images are provided as PNG files and the corresponding f
 
 
 
+
+
 **Results**
 
 We compare our best approach with the state-of-the-art [CRNN](https://arxiv.org/pdf/1507.05717.pdf) approach by the character error rate (cer).
