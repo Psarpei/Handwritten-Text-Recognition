@@ -1,7 +1,7 @@
 # Handwritten-Text-Recognition
-As part of the project we examine several approaches for recognizing text in images and predicting the whole digital text
+As part of the project we examine several approaches for recognizing text in images and predicting the whole digital text.
 
-<p align="center">
+<p align="center">                                                                                                                    
     <img align="top" width="400" height="" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Handwritten_text_recognition.jpg">
 </p>
 
@@ -11,6 +11,7 @@ This work is the preliminary work of the paper [Recognizing Sentence-level Logic
 Context-free Grammars](https://www.aclweb.org/anthology/2020.lrec-1.650.pdf) 
 
 ## General information
+<img align="right" width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo-Goethe-University-Frankfurt-am-Main.svg">;
 
 **Instructors**
 * [Prof. Dr. Visvanathan Ramesh ](http://www.ccc.cs.uni-frankfurt.de/people/), email: mehler@em.uni-frankfurt.de
