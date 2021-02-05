@@ -9,8 +9,9 @@ This work is the preliminary work of the paper [Recognizing Sentence-level Logic
 Context-free Grammars](https://www.aclweb.org/anthology/2020.lrec-1.650.pdf) 
 
 ## General information
-<img align="right" width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo-Goethe-University-Frankfurt-am-Main.svg">
-
+<p align="center">
+    <img width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo-Goethe-University-Frankfurt-am-Main.svg">
+</p>
 **Instructors**
 * [Prof. Dr. Visvanathan Ramesh ](http://www.ccc.cs.uni-frankfurt.de/people/), email: mehler@em.uni-frankfurt.de
 * [Martin Mundt](https://martin-mundt.com/), email: mmundt@em.uni-frankfurt.de
