@@ -25,7 +25,7 @@ On top of that there is a explanation of the object detection approach [YOLOv1](
 * **[TTLab - Text Technology Lab](https://www.texttechnologylab.org/)**
 
 **Project team**
-* [Fabian Vogel](https://github.com/legnaib)
+* Martin Ludwig
 * [Pascal Fischer](https://github.com/Psarpei)
 
 
@@ -40,9 +40,20 @@ The model is able to recognizing the followig logical document structures
 * ```Ti``` - sentence/segment depth will be measured recursive 
 
 **Dataset**
-We only use the data of the [IAM Handwriting Database](https://fki.tic.heia-fr.ch/databases/iam-handwriting-database) for training and testing
 
-<img align="center" width="300" height="" src="https://fki.tic.heia-fr.ch/static/img/a01-122.jpg">
+We only use the data of the [IAM Handwriting Database](https://fki.tic.heia-fr.ch/databases/iam-handwriting-database) for training and testing.
+
+The database consists of:
+
+* 657 writers contributed samples of their handwriting
+* 1'539 pages of scanned text
+* 5'685 isolated and labeled sentences
+* 13'353 isolated and labeled text lines
+* 115'320 isolated and labeled words
+
+All form, line and word images are provided as PNG files and the corresponding form label files, including segmentation information and variety of estimated parameters, are included in the image files as meta-information in XML format which is described in XML file and XML file format (DTD).
+
+<img align="right" width="300" height="" src="https://fki.tic.heia-fr.ch/static/img/a01-122.jpg">
 
 
 **Training results**
