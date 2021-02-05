@@ -60,6 +60,10 @@ We compare our best approach with the state-of-the-art [CRNN](https://arxiv.org/
 
 **Source Code**
 
+<a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 Source Code of all approaches are available in two Python formats
 
 * `.py`
