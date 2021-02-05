@@ -1,5 +1,5 @@
 # Handwritten-Text-Recognition
-As part of the project we examine several approaches for recognizing text in images and predicting the whole digital text.
+As part of the project we examine several approaches for handwriting text recognition based on convolutional neural networky and long short-term memories.
 
 <p align="center">                                                                                                                    
     <img align="top" width="400" height="" src="https://upload.wikimedia.org/wikipedia/commons/8/88/Handwritten_text_recognition.jpg">
