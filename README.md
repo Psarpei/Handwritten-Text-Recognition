@@ -42,7 +42,7 @@ The model is able to recognizing the followig logical document structures
 **Dataset**
 We only use the data of the [IAM Handwriting Database](https://fki.tic.heia-fr.ch/databases/iam-handwriting-database) for training and testing
 
-<img align="center" width="300" height="https://fki.tic.heia-fr.ch/static/img/a01-122.jpg">
+<img align="center" width="300" height="" src="https://fki.tic.heia-fr.ch/static/img/a01-122.jpg">
 
 
 **Training results**
