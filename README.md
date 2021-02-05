@@ -1,9 +1,9 @@
 # Handwritten-Text-Recognition
+As part of the project we examine several approaches for recognizing text in images and predicting the whole digital text
+<img align="center" width="500" height="" src="https://commons.wikimedia.org/wiki/File:Handwritten_text_recognition.jpg">
+
+
 Im Rahmen dieser Arbeit wurden verschiedene Ansätze für die Erkennung von handschriftlichem Text in Bildern untersucht, wobei alle Ansätze der Methode folgen, das Bild in kleinere Teilbilder (Zeilen, Wörter, Buchstaben) zu zerlegen. Es werden die zwei besten der in dieser Arbeit entwickelten Ansätze erläutert und deren Ergebnisse präsentiert.Zudem wird eine aktuelle Methode zur Erkennung von handschriftlichem Text und eine Methode für die Object Erkennung in Form von Object Detection vorgestellt. Zusätzlich wird ein Problem von aktuellen Datensätzen bzw. Methoden aufgezeigt und ein Ausblick für die Verbesserung von diesen gegeben.
-
-
-# Handwritten-Text-Recognition
-Rocognition of logical document structures for german language based on [recurrent neural network grammars](https://arxiv.org/abs/1602.07776/). 
 
 This work is the preliminary work of the paper [Recognizing Sentence-level Logical Document Structures with the Help of
 Context-free Grammars](https://www.aclweb.org/anthology/2020.lrec-1.650.pdf) 
