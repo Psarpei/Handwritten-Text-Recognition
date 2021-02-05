@@ -41,6 +41,8 @@ The model is able to recognizing the followig logical document structures
 
 **Dataset**
 
+<img align="right" width="300" height="" src="https://fki.tic.heia-fr.ch/static/img/a01-122.jpg">
+
 We only use the data of the [IAM Handwriting Database](https://fki.tic.heia-fr.ch/databases/iam-handwriting-database) for training and testing.
 
 The database consists of:
@@ -52,9 +54,6 @@ The database consists of:
 * 115'320 isolated and labeled words
 
 All form, line and word images are provided as PNG files and the corresponding form label files, including segmentation information and variety of estimated parameters, are included in the image files as meta-information in XML format which is described in XML file and XML file format (DTD).
-
-<img align="right" width="300" height="" src="https://fki.tic.heia-fr.ch/static/img/a01-122.jpg">
-
 
 **Training results**
 
