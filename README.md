@@ -10,8 +10,8 @@ All aproaches follow the method to break the image down into the smaller parts:
 * words
 * characters
 
-The two best approaches will be explained in the written elaboration (only available in german) that you can find between the source code folders of this repository.
-On top of that there is a explanation of the object detection approach [YOLOv1](https://arxiv.org/pdf/1506.02640.pdf) which is used in all approaches and the [End-to-End Trainable Neural Network for Image-based-Sequence Recognition](https://arxiv.org/pdf/1507.05717.pdf).
+The two best approaches are explained in the written elaboration (only available in german), that you can find between the source code folders of this repository.
+On top of that there is a explanation of the object detection approach [YOLOv1](https://arxiv.org/pdf/1506.02640.pdf), and the [End-to-End Trainable Neural Network for Image-based-Sequence Recognition](https://arxiv.org/pdf/1507.05717.pdf) which are used in all approaches.
 
 ## General information
 <img align="right" width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo-Goethe-University-Frankfurt-am-Main.svg">;
@@ -28,9 +28,6 @@ On top of that there is a explanation of the object detection approach [YOLOv1](
 * [Fabian Vogel](https://github.com/legnaib)
 * [Pascal Fischer](https://github.com/Psarpei)
 
-**Configuration**
-
-Take a look here for the correct conifuration [recurrent neural network grammars](https://github.com/clab/rnng)
 
 ## Project
 The model is able to recognizing the followig logical document structures
