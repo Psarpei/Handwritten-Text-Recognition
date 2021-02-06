@@ -29,6 +29,12 @@ On top of that there is a explanation of the object detection approach [YOLOv1](
 * [Pascal Fischer](https://github.com/Psarpei)
 
 
+**Tools**
+* Python 3
+* PyTorch
+* Pillow
+* OpenCV
+
 ## Project
 
 **Dataset**
