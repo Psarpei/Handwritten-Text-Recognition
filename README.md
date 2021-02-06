@@ -14,7 +14,7 @@ The two best approaches are explained in the written elaboration (only available
 On top of that there is a explanation of the object detection approach [YOLOv1](https://arxiv.org/pdf/1506.02640.pdf), and the [End-to-End Trainable Neural Network for Image-based-Sequence Recognition](https://arxiv.org/pdf/1507.05717.pdf) which are used in all approaches.
 
 ## General information
-<img align="right" width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo-Goethe-University-Frankfurt-am-Main.svg">;
+<img align="right" width="300" height="" src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo-Goethe-University-Frankfurt-am-Main.svg">
 
 **Instructors**
 * [Prof. Dr. Visvanathan Ramesh ](http://www.ccc.cs.uni-frankfurt.de/people/), email: mehler@em.uni-frankfurt.de
