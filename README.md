@@ -22,7 +22,7 @@ On top of that there is a explanation of the object detection approach [YOLOv1](
 
 **Institutions**
 * **[Goethe University](http://www.informatik.uni-frankfurt.de/index.php/en/)**
-* **[TTLab - Text Technology Lab](https://www.texttechnologylab.org/)**
+* **[AISEL: AI Systems Engineering Lab](http://www.ccc.cs.uni-frankfurt.de/aisel-ai-systems-engineering-lab/)**
 
 **Project team**
 * Martin Ludwig
